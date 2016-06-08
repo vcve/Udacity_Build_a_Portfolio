@@ -1,0 +1,50 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+
+img, embed,
+object, video{
+	max-width: 100%;
+
+}
+//ensure the width not wider than devices
+
+.text-muted{
+	color: #BCBBBB;
+}
+
+.text-thin{
+	font-weight: 100;
+}
+
+.title-supper{
+	text-align: right;
+	font-size: 60px;
+
+}
+
+.title-normal{
+	text-align: right;
+}
+
+.title-logo {
+	margin: 20px;
+	height: 100px;
+	width: 100px;
+}
+
+.img-responsive2{
+	height: 300px;
+	width: 300px;
+}
+
+.headline{
+	display: inline-flex;
+}
+
+.feature_work{
+	text-align: center;
+}
