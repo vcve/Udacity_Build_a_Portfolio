@@ -16,6 +16,11 @@ object, video{
 	color: #BCBBBB;
 }
 
+.text-muted2{
+	color: #BCBBBB;
+	text-align: center;
+}
+
 .text-thin{
 	font-weight: 100;
 }
@@ -47,4 +52,10 @@ object, video{
 
 .feature_work{
 	text-align: center;
+	margin: auto;
+}
+
+.img-responsive2{
+	display:flex;
+	margin: auto;
 }
