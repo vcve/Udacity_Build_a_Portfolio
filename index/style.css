@@ -18,11 +18,11 @@ video {
 
 
 @media screen and (max-width: 500px) {
-	body {background-color: #F8E0E0;}
+	body {background-color: #f8e0e0;}
 }
 
 @media screen and (min-width: 700px) {
-    body {background-color: #EFFBFB;}
+    body {background-color: #effbfb;}
 }
 
 .text-muted {
@@ -66,11 +66,11 @@ video {
 .feature_work {
 	text-align: center;
 	margin: auto;
-	align:center
-	flex-wrap:wrap
+	align: center;
+	flex-wrap: wrap;
 }
 
 .img-responsive2 {
-	display:flex;
+	display: flex;
 	margin: auto;
 }
